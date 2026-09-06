@@ -13,4 +13,4 @@ QUESTÕES:
     PUT	                   /notes/{id}	     Atualizar uma nota
     DELETE	               /notes/{id}       Excluir uma nota
 
-5-fastAPI HTML/CSS/JAVASCRIPT e Tkinter 
+5-Sim. Está sendo utilizado o FastAPI para desenvolver os endpoints da API.
