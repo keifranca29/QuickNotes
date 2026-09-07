@@ -4,7 +4,7 @@ QUESTÕES:
 
 2- Sim, foram utilizadas duas migrations. A primeira para a tabela usuário, criando-a com campos necessários para cadastrar e identificar usuários, a segunda para as notas, incluindo uma foreign key pra relacionar a nota ao usuário
 
-3-O caminho seria QuickNotes/database/seed.py
+3-O caminho seria QuickNotes/backend/seed.py
 
 4- Método	               Endpoint	             Função
     GET	                   /note             Listar todas as notas
